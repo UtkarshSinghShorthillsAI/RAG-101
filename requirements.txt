@@ -1,0 +1,10 @@
+langchain
+langchain-community
+langchain-core
+langchain-text-splitters
+langsmith
+python-dotenv
+bs4
+pypdf
+chromadb
+faiss-cpu
