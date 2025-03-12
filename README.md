@@ -1,3 +1,3 @@
 # RAG-101
 
-A simple 
+A simple pdf based rag bot
